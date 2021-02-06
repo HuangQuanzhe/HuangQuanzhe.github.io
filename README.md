@@ -1,3 +1,0 @@
-## Welcome to HuangQuanzhe Pages
-
-## TODO...
