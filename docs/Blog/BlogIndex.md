@@ -1,1 +1,2 @@
-[第一篇！](Blog/di_yi_pian)
+# Blog
+[第一篇！](di_yi_pian)
