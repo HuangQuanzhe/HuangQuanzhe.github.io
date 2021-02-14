@@ -1,2 +1,8 @@
-# Blog
-[第一篇！](di_yi_pian)
+
+# Blog 
+#### [Home](../index)
+    
+## [di_yi_pian](./di_yi_pian)
+    
+#### huangquanzhe@126.com hqzforgithub@163.com
+    
