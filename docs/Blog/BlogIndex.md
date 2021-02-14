@@ -2,7 +2,7 @@
 # Blog 
 #### [Home](../index)
     
-## [di_yi_pian](./di_yi_pian)
+## [第一篇](./第一篇)
     
 #### huangquanzhe@126.com hqzforgithub@163.com
     
