@@ -8,6 +8,7 @@ I also enjoy learning Docker, K8s, DataBase, Distributed file system such as Glu
 This Github Page will record my learning experiences and some of the feelings of life.
     
 ## [Blog](./Blog/BlogIndex)
+## [Tips](./Tips/TipsIndex)
 
 #### huangquanzhe@126.com hqzforgithub@163.com
     

@@ -2,8 +2,6 @@
 # Blog 
 #### [Home](../index)
     
-## [书架-0](./书架-0)
-    
 ## [关于DTO与DO的小思考](./关于DTO与DO的小思考)
     
 ## [初识OverlayFS](./初识OverlayFS)
